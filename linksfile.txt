@@ -1,0 +1,12 @@
+Day-ahead PSSE
+https://mis.ercot.com/secure/data-products/markets/day-ahead-market?id=NP4-500-SG
+Outage
+https://mis.ercot.com/secure/data-products/grid/transmission?id=NP3-157-CD
+Seven Day Load Forecast
+https://mis.ercot.com/secure/data-products/grid/forecasts?id=NP3-560-CD
+Hourly RealTime Load
+https://mis.ercot.com/secure/data-products/grid/forecasts?id=GEN-55-CD
+Wind Forecast
+https://mis.ercot.com/secure/data-products/grid/forecasts?id=NP4-742-CD
+Solar Forecast
+https://mis.ercot.com/secure/data-products/grid/forecasts?id=NP4-737-CD
